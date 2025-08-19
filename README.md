@@ -7,7 +7,8 @@
 ---
 
 ## 🌐 Connect with me
-![Portfolio](https://ankit1350.github.io/skills-github-pages/)
+[Portfolio](https://ankit1350.github.io/skills-github-pages/)
+
 ---
 
 ## 🛠️ Tech Stack

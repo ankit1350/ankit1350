@@ -19,12 +19,6 @@
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit1350&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ankit1350&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1350&layout=compact&theme=tokyonight)
 
 ---
 

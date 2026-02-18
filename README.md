@@ -2,7 +2,6 @@
 
 💡 Passionate about coding, open-source, and building impactful projects.  
 🎯 Currently learning **Python | Java | Web Development**.  
-🚀 Preparing for **GSoC 2026**  
 
 ---
 
@@ -25,7 +24,7 @@
 ## 🌱 Current Goals
 - 📖 Master **Python & Java OOPs**
 - 🔨 Build full-stack apps with **Django + JavaScript**
-- 🤝 Contribute to **open source & hackathons (SIH, GSoC)**
+- 🤝 Contribute to **open source & hackathons)**
 - 🧠 Dive into **AI/ML research & projects**
 
 ---

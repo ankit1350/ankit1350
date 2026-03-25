@@ -6,6 +6,11 @@
 ---
 ![](https://komarev.com/ghpvc/?username=ankit1350&color=dc143c)
 ---
+## 🎧 Currently Listening
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zzog2mfgzfcrzw5s3dvwwtbhse&count={count})
+---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit1350&show_icons=true&theme=tokyonight&count_private=true)
+---
 ## 🌐 Connect with me
 [Portfolio](https://ankit1350.github.io/skills-github-pages/)
 

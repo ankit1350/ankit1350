@@ -13,7 +13,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit1350&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1350&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankit1350&layout=compact&theme=tokyonight&langs_count=6&hide=html,css)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ankit1350&theme=tokyonight)
 
@@ -50,9 +50,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ankit1350.github.io/skills-github-pages/)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar135/)
-
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ankit.1kr)
-
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankit.kr.e9@gmail.com)
 
 ---

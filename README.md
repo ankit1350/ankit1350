@@ -4,7 +4,8 @@
 🎯 Currently learning **Python | Java | Web Development**.  
 
 ---
-
+![](https://komarev.com/ghpvc/?username=ankit1350&color=dc143c)
+---
 ## 🌐 Connect with me
 [Portfolio](https://ankit1350.github.io/skills-github-pages/)
 

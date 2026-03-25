@@ -9,11 +9,19 @@
 ## 🎧 Currently Listening
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zzog2mfgzfcrzw5s3dvwwtbhse&count=5)
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ankit1350&show_icons=true&theme=tokyonight&count_private=true)
----
+
 ## 🌐 Connect with me
 [Portfolio](https://ankit1350.github.io/skills-github-pages/)
 
+<a href="https://instagram.com/ankit.1kr">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/ankit-kumar135/">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="mailto:ankit.kr.e9@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 ---
 
 ## 🛠️ Tech Stack

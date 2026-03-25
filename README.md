@@ -8,6 +8,7 @@
 ---
 ## 🎧 Currently Listening
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31zzog2mfgzfcrzw5s3dvwwtbhse&count=5)
+
 ---
 
 ## 🌐 Connect with me
@@ -22,6 +23,7 @@
 <a href="mailto:ankit.kr.e9@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -42,7 +44,12 @@
 - 🧠 Dive into **AI/ML research & projects**
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ankit1350/ankit1350/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ankit1350/ankit1350/blob/output/github-snake.svg" />
+  <img alt="github-snake" src="https://github.com/ankit1350/ankit1350/blob/output/github-snake.svg" />
+</picture>
+---
 ## ✨ Fun Fact
 ⚡ I love combining **logic + creativity** — whether it’s coding, solving puzzles, or brainstorming ideas!
 

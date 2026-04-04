@@ -19,12 +19,6 @@
 
 ---
 
-## 🎧 Currently Listening
-
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31zzog2mfgzfcrzw5s3dvwwtbhse&count=5&unique=true)](https://open.spotify.com/user/31zzog2mfgzfcrzw5s3dvwwtbhse)
-
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
